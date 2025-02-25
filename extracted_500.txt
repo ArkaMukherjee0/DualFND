@@ -1,0 +1,500 @@
+[TEXT] my walgreens offbrand mucinex was engraved with the letters mucinex but in a different order [OBJECTS] hand, Mixeunnic pill [LABEL] 1
+[TEXT] hackers leak emails from uae ambassador to us [OBJECTS] man,suit,tie,chair,table,wall,molding,picture frames,lamp,plant [LABEL] 1
+[TEXT] puppy taking in the view [OBJECTS] Dog, grass, trees, golf course, path, bushes, rocks, pond [LABEL] 1
+[TEXT] bride and groom exchange vows after fatal shooting at their wedding [OBJECTS] Police officer, Police officer, Car, Person, SUV, Person, Wedding dress, Person, SUV, Road, Trees, Tape, Sign, Building, Car [LABEL] 1
+[TEXT] major thermos [OBJECTS] thermos, black mat, counter, buddha image, light strip, digital menu board [LABEL] 0
+[TEXT] rabbi meat from cloned pig could be kosher for jews to eat with milk [OBJECTS] Wooden table, glazed ham, plate, sliced ham, white square bowl, green peas, roast potatoes, green garnish, fork, green and gold bowl/dish, cooked carrots/yams [LABEL] 1
+[TEXT] jesus christ1a2k4e converting local teens to christianity repainted and then circa ad [OBJECTS] Skateboarder, Skateboarder, Skateboarder, Skateboarder, Skateboard, Skateboard, Skateboard, Skateboard, Seesaw, Van, Car, Car, Car, Car, Car, Car, Tree, Tree, Tree, Tree, Tree, Tree, Tree, Tree, Tree, Tree, Building, Building [LABEL] 0
+[TEXT] victory the great european crusade vichy france [OBJECTS] knight, horse, lance, sword, soldier, dagger, blood, people, helmet [LABEL] 0
+[TEXT] english village becomes climate leader by quietly cleaning up its own patch [OBJECTS] Man, solar panels, wooden fence, green plants, pink flowers, gravel, grass, trees, building, field, sky, clouds [LABEL] 1
+[TEXT] seven doggly sins sloth [OBJECTS] Dog, Clothes, Carpet, Bed, Blanket, Plaid pattern [LABEL] 0
+[TEXT] cutest baby cow ive seen in my head all day and just enjoy destiny for what it is [OBJECTS] Sky, clouds, flock of birds, boy, rhinoceros, horn, grass, river, ground/dirt [LABEL] 0
+[TEXT] asian girl wearing virtual reality goggles holding a very surprised looking cat [OBJECTS] VR headset,Woman,Cat,Plant,Pot,Floor,Laptop,Wall,Window,Shorts,T-shirt [LABEL] 1
+[TEXT] the way the rain made a silhouette of my bike [OBJECTS] Gravel, White lines, Broom, Dustpan, Shoes [LABEL] 1
+[TEXT] how to selfdiagnose yourself with a mental illness in easy steps [OBJECTS] man, suit, tie, computer, monitor, keyboard, mouse, phone, window, red chair, desk [LABEL] 0
+[TEXT] love and peace the washington way soviet union [OBJECTS] palm branch, fighter jets [LABEL] 0
+[TEXT] a view of london that you can only see from the strangers bar in the palace of westminster [OBJECTS] London Eye, River Thames, tables, chairs, lamps, people, buildings, bridge, water, County Hall (building with purple lighting), London Eye Pier, walkway/patio [LABEL] 1
+[TEXT] happy boat with some friends [OBJECTS] mountain, town, white buildings, harbor, boats, yachts, piers, docks, flags, blue flag, red and white flag, life preservers, red life preserver, orange life preserver, water, sky, cardboard boxes, trash can [LABEL] 0
+[TEXT] the tree was angry at me for felling it [OBJECTS] Chainsaw, Tree stump, Wood chips, Glove, Branches, Ground, Handle, Trigger, Chain brake, Air filter cover, Top cover, Throttle lockout,  Chain catcher [LABEL] 0
+[TEXT] governor chris christie reacts to a statement in an interview [OBJECTS] Man, suit jacket, shirt, tie, flag, picture frame, wall [LABEL] 1
+[TEXT] applying to join the chinese communist party music video w english subtitles [OBJECTS] CRT Monitor, Computer, Keyboard, Desk, Lamp, Papers, Book, Person, Striped Shirt, Hammer and Sickle Symbol [LABEL] 0
+[TEXT] my dads neighbor used to own ambulance company he is moving so we got to see this [OBJECTS] White 1940s Cadillac ambulance, Tow truck, Flatbed, Red wheels, Chrome grill, Chrome bumper, Red siren lights, Whitewall tires, Street, Trees, Utility pole, Side mirror, Tow truck wheel lift, Motorcycle partially visible on the wheel lift [LABEL] 1
+[TEXT] creepy guy with creepy hair staring creepily [OBJECTS] Man, mullet hairstyle, gauged earlobe, red plaid shirt, earring, pictures (on wall), refrigerated display case, door handle [LABEL] 1
+[TEXT] rain made this iron slab wall a beautiful red [OBJECTS] building, wall, siding, window, grass, gravel, window frame [LABEL] 1
+[TEXT] president making a point in the parliament [OBJECTS] man,suit,shirt,tie,fist,microphones,wall [LABEL] 1
+[TEXT] destiny finally comes to pc on steam but theres a big catch [OBJECTS] Christmas tree, Christmas ornament, Christmas ornament, Christmas ornament, Christmas ornament, Christmas ornament, Christmas ornament [LABEL] 0
+[TEXT] piglets on the loose after truck overturns [OBJECTS] Person, safety vest, pig, grass, trees, child/person in background [LABEL] 1
+[TEXT] happy fella in my penske rental [OBJECTS] cup holder, cup holder, storage compartment, string [LABEL] 0
+[TEXT] oo [OBJECTS] wooden plank, metal strip, hole, hole, hole, scratch [LABEL] 0
+[TEXT] a sun bear sitting down x [OBJECTS] sun bear, rock wall, small plant [LABEL] 1
+[TEXT] not sure how i feel about this [OBJECTS] Road, Power lines, Trees, Hills, Sky, Black SUV, License plate, Rear lights, Exhaust pipes, Black Jeep, Headlights, Houses, White picket fence, Yellow lane markings [LABEL] 1
+[TEXT] fine sushi [OBJECTS] Suitcase with sushi cover, Suitcase with sushi cover, Suitcase with sushi cover, Suitcase with sushi cover, Baggage carousel, Floor, Wall, Ceiling, Lights [LABEL] 0
+[TEXT] this car has a door bolt [OBJECTS] car door, door handle, latch, rust, car paint, door seam, concrete floor [LABEL] 1
+[TEXT] the shadow [OBJECTS] Rope, Man, Shadow, Wall [LABEL] 1
+[TEXT] el chapo escapes altiplano prison th [OBJECTS] turkey, motorcycle, handlebars, rails, tunnel [LABEL] 0
+[TEXT] this lighting desk has oops and please keys [OBJECTS] Keyboard, Keypad, Key, Key, Key, Key, Key, Key, Key, Key, Key, Key, Key, Key, Key, Key, Key, Key, Key, Key, Key, Key, Key, Key, Key, Key, Key, Key, Key, Key, Key, Key, Key, Key, Key, Key, Key, Dimmer wheel/slider [LABEL] 1
+[TEXT] excited ashtray [OBJECTS] ashtray, cigarette butts, metal railing, trees, river/water [LABEL] 0
+[TEXT] this image of spike lee and sam jackson at the oscars [OBJECTS] Two men, purple suit, black suit, purple hat, gold sneakers, socks, watch, Oscars stage, red floral backdrop, tiered steps, gold-colored design on the floor [LABEL] 1
+[TEXT] this is what it looks like behind the dome screen of an omnimax museum theatre [OBJECTS] people, man, woman, group, elevator, metal framework, large window, geodesic dome, crate [LABEL] 1
+[TEXT] report reveals jesus christ have benefited from fathers influential position to gain highpowered role as lord and savior [OBJECTS] Jesus, robe, cloak, sacred heart, hands, light rays, clouds [LABEL] 0
+[TEXT] barack obama dancing with ellen degeneres [OBJECTS] Barack Obama, Ellen DeGeneres, suit jacket, dress shirt, microphone, podium, plants, flowers, red chair, jeans, t-shirt, stage, backdrop [LABEL] 1
+[TEXT] comfort cases former foster child helps other kids in foster care [OBJECTS] Two men,Three children,Brick wall,Couch,Pillow,Plaid shirt,Striped shirt,Plaid shirt,Graphic t-shirt,Striped shirt,Eyeglasses [LABEL] 1
+[TEXT] a tattoo artist is covering up the scars of people who have overcome self harm for free [OBJECTS] Arm with scars, Tattoo of flowers, Woman, Glasses, Striped shirt [LABEL] 1
+[TEXT] this little guy stuck in the snow [OBJECTS] Snow, Roof, Gutter, Downspout, Wooden board/beam [LABEL] 0
+[TEXT] your cable company would hate us if it knew we told you about this device on amazon [OBJECTS] Hand, finger, remote control, buttons, television, screen, icons/apps [LABEL] 0
+[TEXT] the difference the light makes on these tiles [OBJECTS] Grey rectangular subway tiles, White rectangular subway tiles, Blue tile spacers [LABEL] 1
+[TEXT] a fish in the new england aquarium [OBJECTS] Fish,eye,fin,spots,water [LABEL] 1
+[TEXT] he cant do it alone proempire long long ago date unknown [OBJECTS] Darth Vader, Lightsaber, Imperial officers, Stormtroopers, Imperial cog insignia, Text "HE CAN'T DO IT ALONE", Text "ENLIST TODAY" [LABEL] 0
+[TEXT] the flying tigers of the free world strike again korean warera leaflet [OBJECTS] Woman singing,Microphone,Dress uniform,Stage,Trumpet,Music stand,Sheet music,Trombone,French horn,Tuba,Drums,Drum set,Cymbal,Microphone stand,Chair,Christmas wreath,Spotlight [LABEL] 0
+[TEXT] mini wireless keyboard lighter for scale [OBJECTS] Wireless keyboard, Lighter [LABEL] 1
+[TEXT] the future of paris [OBJECTS] Eiffel Tower, buildings, skyscrapers, river, sunset, lights, roads, vehicles, bridge [LABEL] 1
+[TEXT] rules of an immoral park [OBJECTS] sign, trees, man in blue shirt, woman in red shirt, plants, ground [LABEL] 1
+[TEXT] cop brought to tears by mans request after traffic stop [OBJECTS] Man, Man in uniform, Pickup truck, Headlights [LABEL] 1
+[TEXT] how do you get such a perfect photo [OBJECTS] Man, Child, Water, Swimming pool [LABEL] 0
+[TEXT] king kong vs godzilla [OBJECTS] person, person, person, suit, suit, tie, tie, red carpet [LABEL] 0
+[TEXT] what does this creature want from me heat me up with some good music [OBJECTS] Knitted headphones case, headphones, table, papers, rolled paper or poster, magazine, receipt, pen, cup, black cord/cable [LABEL] 0
+[TEXT] the notes on a conditional form [OBJECTS] The 1975 (band name), Notes On A Conditional Form (album title), 2019-2020 (date), creased off-white background, Dirty Hit and Polydor Records logo [LABEL] 0
+[TEXT] this trophy for best corn [OBJECTS] bronze sculpture, globe, Native American, ears of corn, glass tubes, pedestal, man in a suit [LABEL] 1
+[TEXT] the reinforcement on these identical pieces of duplo lego [OBJECTS] Green LEGO baseplate with diagonal bracing, Green LEGO baseplate with grid pattern [LABEL] 1
+[TEXT] at halftime of sdsus basketball game they auction off a pig [OBJECTS] basketball court, bleachers, spectators, jumbotron, pig, cage, trailer, golf cart, people in blue shirts, man in gray shirt, ramp [LABEL] 1
+[TEXT] revolution syria [OBJECTS] poster, text, person, hat, face mask, scarf, jacket, hand, sign, map of Syria, star [LABEL] 0
+[TEXT] this spider on my back porch disguises itself as a stick to fool prey [OBJECTS] Cellar spider, Cellar spider [LABEL] 1
+[TEXT] in just over two years the copper in my iems has turned green new pair to the right for comparison [OBJECTS] in-ear monitors, cable, cable, heat shrink tubing [LABEL] 1
+[TEXT] the way this mosquitorepellant spiral burned [OBJECTS] mosquito coil, metal stand, concrete floor, small rectangular objects [LABEL] 1
+[TEXT] ronald reagan getting shot at a attempted murder cira [OBJECTS] Yoshi, sunset, hills, bridge, walkway, wall, grass, Luigi, Mario, red balloon, sky, railing, Wiimote and Nunchuck, airplane/jet [LABEL] 0
+[TEXT] a dying bee in a park on a grilled onion [OBJECTS] grass, rotting cabbage core [LABEL] 1
+[TEXT] rc car controller cannot unsee [OBJECTS] Remote control, Toy car, Antenna [LABEL] 0
+[TEXT] reports pregnant popeyes manager fired after refusing to pay for armed robbery [OBJECTS] Building,Parking lot,Cars,Trucks,Street,Sidewalk,Red and white sign,Awning,Trees,Woman,Couch,Television screen,Text overlay [LABEL] 1
+[TEXT] the stoplights in akureyri iceland [OBJECTS] Traffic light with heart-shaped red light, Red traffic light, Yield sign, Cars, Buildings, Street lights, Mountains, Road, Cloudy sky, Utility pole, Sidewalk, Trailer, People [LABEL] 1
+[TEXT] just ate a fresh apple and found germinating pips inside [OBJECTS] apple core, apple seeds, sprouts [LABEL] 1
+[TEXT] lost dog shows she nose her way to owners workplace [OBJECTS] Dog,dirt,wood chips,leaves,concrete,pot,window frame,metal frame [LABEL] 1
+[TEXT] i was always euroskeptic claims cameron despite leading remain campaign [OBJECTS] David Cameron, suit, tie, door, doorway, metal railing, finial [LABEL] 1
+[TEXT] justin bieber trying to sneak out of a brothel with his bodyguards [OBJECTS] man in black suit, man in black polo shirt, man in black t-shirt, woman in black top and pants, woman in white shirt, woman taking a picture, blanket or sheet, wooden stool, doorway, cell phone, two men in background [LABEL] 1
+[TEXT] this rock in trinidad looks like an air jordan [OBJECTS] Island, boats, water, hills, sky [LABEL] 1
+[TEXT] argetinas football squad celebrate a goal during the world cup [OBJECTS] two banana characters, pajamas, blue stripes, white stripes, buttons [LABEL] 0
+[TEXT] boston nurse has donated gallons of blood over last years [OBJECTS] Man,Woman,Nurse,Recliner,Medical scrubs,Gloves,Needle,IV catheter,Arm,Hand,Bandage,Medical equipment,IV stand,Wall,Cabinets,Counter,Paper towel dispenser,Sink,Examination table,Wastebasket,Medical chart,Lanyard [LABEL] 1
+[TEXT] my printers paper guide is not having a good day [OBJECTS] Plastic printer component, Grey plastic piece, White plastic surface, Metal spring, Black plastic piece, Green plastic accent [LABEL] 0
+[TEXT] imagine having to pay more to visit funwaacom so join the battle for net neutrality [OBJECTS] "THE FIGHT FOR NET NEUTRALITY IS BACK" text, Boxing glove, BATTLE FOR THE NET logo, battleforthenet.com URL text, Red section, Dark background, Multicolored top border [LABEL] 0
+[TEXT] i rarely use my stapler so i guess its accurate that it is a sloth [OBJECTS] stapler, desk, paper, arm [LABEL] 0
+[TEXT] feds nsa probably spies on members of congress [OBJECTS] Girl, oversized novelty sunglasses, pink frames, "STOP SPYING" text, stars on sunglasses frames, nose, mouth, teeth, blonde hair, pink scarf/clothing [LABEL] 1
+[TEXT] flying goalkeeper [OBJECTS] Goalkeeper, gloves, jersey, shorts, socks, cleats, soccer field, stadium, spectators/crowd [LABEL] 1
+[TEXT] i was just minding my own business at work taking some pictures when i noticed this goofy guy smiling at me [OBJECTS] Camouflage fabric pouch, Grommets, Drawstring, Stitching [LABEL] 0
+[TEXT] allegory of emperor pedro ii of brazil art by henrique fluiess [OBJECTS] Man,Angel,Halo,Crown,Robe,Tunic,Podium,Building,Ship,Flag,Globe,Anchor,Gears,Jaguar,Coins,Books,Palm leaves,Laurel wreath [LABEL] 0
+[TEXT] how to have sex with a flowercovered roof used as a human shield on a bridge [OBJECTS] peacock, kitten, wooden deck, fence, grill cover [LABEL] 0
+[TEXT] five shot in downtown seattle near scene of antitrump protests [OBJECTS] YAHOO! logo [LABEL] 1
+[TEXT] this kitty has a small cat face on its forehead [OBJECTS] Scottish wildcat kitten,whiskers,fur,eyes,nose,ears,tree trunk [LABEL] 0
+[TEXT] i fell asleep on the remote [OBJECTS] Skin, TV remote control imprint [LABEL] 1
+[TEXT] hidden lake and reynolds mountain glacier nation park montana [OBJECTS] mountain, lake, woman, inflatable mat, towel, backpack, shoes [LABEL] 0
+[TEXT] this picture of obama in a scotland airbnb [OBJECTS] Framed picture of Barack Obama, patterned wallpaper, white tiled wall, metallic handrail/toilet roll holder [LABEL] 1
+[TEXT] the handrail at the top of castel santelmo in naples has braille [OBJECTS] metal railing with braille, city, mountains, sky, water, buildings [LABEL] 1
+[TEXT] this hedgehog and golden retriever wearing beanies [OBJECTS] dog, hedgehog, beanie, beanie, lake, mountain, arm, hand [LABEL] 1
+[TEXT] smoking skull [OBJECTS] Wooden chair, Leather seat, Scratches, White paint drops [LABEL] 0
+[TEXT] thats not his hair [OBJECTS] Van, tire, tire, wheel, wheel, window, window, door, side mirror, headlight, man's face (painted), text "FLIGHT OF THE CONCHORDS", white design, parking space markings, trees, sky, bush, sign post [LABEL] 0
+[TEXT] this tree is split right open [OBJECTS] tree trunk, trees, leaves, branches [LABEL] 1
+[TEXT] i have always enjoyed reading uplifting news but creating uplifting news is so much better check out my free dad and daughter hair classes thank you [OBJECTS] men,bald man,man in red shirt,man in baseball cap,man in teal shirt,girls,girl with blonde hair,girl with brown hair,girl in pink shirt,girl with blonde pigtails,toddlers,table,spray bottles,green and white bags,white plastic bag,brushes,yellow wall,birthday banner,orange and green curtain [LABEL] 1
+[TEXT] flooded city [OBJECTS] person, river, canyon walls, rocks, water, basalt columns, rusty-colored rocks [LABEL] 0
+[TEXT] man plays with his newly purchased nintendo labo [OBJECTS] Cardboard box, Shoes, Worn pants,  Person experiencing homelessness, Dry grass or straw, Plastic crate, Trash or debris on the ground, Metal hook, Small pieces of wood or kindling [LABEL] 0
+[TEXT] happy plum [OBJECTS] Hand, plum, plum tree, plum, plum [LABEL] 0
+[TEXT] israelsoviet union friendship poster made by the israeli communist party [OBJECTS] flag, hammer and sickle, year (1954), year (1905), three people, tools [LABEL] 0
+[TEXT] federal judge rules separated families must be reunited within days [OBJECTS] woman, sunglasses, clipboard, paper, stuffed animal, police officers, vest, belt, radio, gun, baseball cap, street light, car, sky, clouds [LABEL] 1
+[TEXT] nasa documents showing mission plans for apollo landing [OBJECTS] Facebook Events page, Events heading, Calendar button, Event title "Storm the Moon, They Can't Stop All of Us", Birthdays button, Discover button, Heading button, Create Event button, Event image, Number of people going (19), Event privacy setting (Private), Hosted by (Bob Smith), Invite button, Edit button, More button, Event date and time, Event location (Tranquility base), Number going (1), Number maybe invited (0), Invite friends to this event, Invite button, Event description text [LABEL] 0
+[TEXT] father and son in stormtrooper outfit [OBJECTS] Stormtrooper costume (adult), Stormtrooper costume (child), Pumpkin, Sidewalk, Bushes, Trees [LABEL] 1
+[TEXT] this is what can be expected if europe succumbs to bolshevism [OBJECTS] Map of Europe, Text in Cyrillic, Fighting figures, Fallen figure, Castle/building [LABEL] 0
+[TEXT] an american soldier loads his shotgun before charging into german trenches [OBJECTS] person, shotgun, goggles, headphones, tactical vest, gloves, building, palm trees [LABEL] 0
+[TEXT] grinchy guns and jesus [OBJECTS] Two AK-47 assault rifles, Jesus Christ statue, Parental Advisory sticker, album title "GRINCHY" [LABEL] 0
+[TEXT] toddler playing sheep decides to play with baby jesus during nativity play [OBJECTS] Wooden nativity scene, Wooden roof, Light fixture, Garland, White cloth, Angel halo, Baby Jesus doll, Mary doll, Joseph doll, Shepherd doll, Sheep costume,  Doll wearing black shoes [LABEL] 1
+[TEXT] flipped over wheeler on fire rpics [OBJECTS] Smoke, Fire, Road, Guardrail, Tanker truck, Damaged cab, Wheels, Asphalt [LABEL] 1
+[TEXT] drunk octopus [OBJECTS] Octopus-shaped wall hook, screws, wall, writing in marker [LABEL] 0
+[TEXT] they phoned me with shocking news [OBJECTS] Wall-mounted telephone, handset, bells, wooden box, wall, wires, wooden furniture, sign [LABEL] 0
+[TEXT] this cat surrenders from raww [OBJECTS] cat, cardboard box [LABEL] 1
+[TEXT] my fencepost is a happy camper [OBJECTS] Wooden post, Nails, Smiley face, Grass, Wood grain, Fence post top [LABEL] 0
+[TEXT] historical footage of the last trex serving his country in ww [OBJECTS] T-Rex, soldiers, jeep, Browning M2, ground [LABEL] 0
+[TEXT] this melted car in lille france [OBJECTS] Car, Puddle, Gravel, Sidewalk, Brick wall, Metal door, Grass, Metal poles, Curb [LABEL] 1
+[TEXT] my cats fur is smokey hes a black cat with a snow white undercoat [OBJECTS] black cat, couch, wooden furniture [LABEL] 1
+[TEXT] robot mole on mars begins digging into red planet this week [OBJECTS] Mars surface, robotic arm, wiring, metal components, circular base, shadow of arm, small rocks/pebbles [LABEL] 1
+[TEXT] girl with swimming noodles [OBJECTS] Girl, pool noodles, swimming pool, pool deck, flagpole, American flag, trees, fence, bushes, vehicle, diving board [LABEL] 1
+[TEXT] amazing lego sculptures put all around san antonio botanical garden to brighten the experience [OBJECTS] Lego bee, plant leaves, white flowers [LABEL] 1
+[TEXT] heavy rotation end of an empire [OBJECTS] Ninja, katana, backpack, headscarf, face mask, tactical suit, triangular corridor, red lighting, HUD display, security control interface, heavy rotation title [LABEL] 0
+[TEXT] cat why so serious [OBJECTS] cat,whiskers,nose,eyes,fur,face [LABEL] 1
+[TEXT] first sled ride [OBJECTS] Snow,Laundry basket,Baby,Man,Trees,Hill,Footprints,Tire tracks,Sky [LABEL] 1
+[TEXT] happy frog backpack [OBJECTS] Backpack,Zipper,Chair,Floor,Wall,Table [LABEL] 0
+[TEXT] stamped a stamp on top of another stamp perfectly symmetrically to create a cool pattern [OBJECTS] finger, paper wrapper, hot dog design, number 73 [LABEL] 1
+[TEXT] the froth on top of my coffee is the same color as the cup makes it look empty [OBJECTS] Ceramic mug with coffee, CD, Father's Day card, Handprint art, Decorative wooden cutout, Shelf, Portion of a USB flash drive [LABEL] 1
+[TEXT] mickey mouse power line pole [OBJECTS] Car, Dashboard, Windshield, Wiper, Street light, Power lines, Mickey Mouse shaped power pylon, Trees, Grass, Sky, Clouds [LABEL] 1
+[TEXT] mick jagger and art garfunkel recording an unreleased album [OBJECTS] man with a headband, broken guitar, man in red shirt, piece of wood, wall [LABEL] 0
+[TEXT] gang violence in los santossan andreas [OBJECTS] people, sunglasses, leather jackets, denim jackets, jeans, crop top, orange slices, vehicle, street, tunnel [LABEL] 0
+[TEXT] awe yeaaaaahhh [OBJECTS] Red bell pepper, stem, seeds, white background [LABEL] 0
+[TEXT] in the wake of police unlawfully detain a muslim woman [OBJECTS] man, woman, man, woman, woman, bench, dog, trees, sidewalk, light pole, sign, statue, street, building [LABEL] 0
+[TEXT] guy contemplating life under pressure [OBJECTS] red shirt, hands, watch, wristbands, head, face, glasses, mug, beer, table, lighter [LABEL] 1
+[TEXT] a dog with its head in a gate [OBJECTS] gate, metal fence, white dog, samoyed dog, stone pillars, concrete path, grass, bushes, steps, house, scooter, white plastic chairs, folding table, potted plant [LABEL] 1
+[TEXT] a drowned scorpion centipede and lizard pulled from the bottom of a pool [OBJECTS] centipede, scorpion, lizard [LABEL] 1
+[TEXT] major democratic donor ed buck arrested charged with running drug den [OBJECTS] Hillary Clinton, man, glasses, bow tie, red blazer, blue dress shirt, wall, light fixture, door, window frame [LABEL] 1
+[TEXT] a former red beret soldier recounts his experience s of the vietnam war on a news report on [OBJECTS] maroon beret, gold V-shaped pin or insignia, sunglasses, gold bow tie, pinstriped jacket, microphone, hand, finger, white sculpture, concrete or stone base, water fountain/pool [LABEL] 0
+[TEXT] rock face [OBJECTS] rock, red markings, yellow marking, plants, flowers [LABEL] 0
+[TEXT] cellphone tower zone map of california [OBJECTS] Stephania erecta plant, grey wall, black pot [LABEL] 0
+[TEXT] alignment of completely independent variables necessary for man to feel okay [OBJECTS] person,man,polo shirt,kitchen cabinets,microwave,oven,refrigerator,countertop,kitchen island,wood floor [LABEL] 0
+[TEXT] margaret thatcher hashtag confuses cher fans [OBJECTS] woman, Cher, hat, hair, face, eyes, nose, lips, makeup, light [LABEL] 1
+[TEXT] the guardian of the baby [OBJECTS] Plastic frame, Handle, Holes, Wall [LABEL] 0
+[TEXT] coffee is awesome [OBJECTS] coffee roaster, coffee beans, thermometer, metal paddle, viewing window, handle, metal housing, screws, bolts [LABEL] 0
+[TEXT] ilya repin demonstration on [OBJECTS] People, Crowd, Hats, Banner, Flag, Confetti, Clothing, Faces, Hands, Red flower, Ship mast, Building (in background) [LABEL] 0
+[TEXT] man dodges armed robbers bullets to protect his louis vuitton bag he can pry it out of my cold dead hands [OBJECTS] man, white polo shirt, trees, grass, Louis Vuitton handbag [LABEL] 1
+[TEXT] one in eight young people in the uk have never seen a real cow [OBJECTS] cow, cow, cow, cow, cow, grass, trees, hills, sky, clouds, ear tag, ear tag, ear tag, ear tag [LABEL] 1
+[TEXT] i was born with a leg defect that makes my knee face inwardson the sides of my legs my fun party trick [OBJECTS] slippers, bed, legs, dresser, mirror, rocking horse, blanket, bobby pin [LABEL] 1
+[TEXT] tutankhamuns mumified hog c bc stolen before burial by ankhesenamun as a memento [OBJECTS] knife, sausage, butcher paper, pages of a book, black speckled countertop, metal top of a can [LABEL] 0
+[TEXT] girl about to head a soccer ball [OBJECTS] Soccer ball,Female soccer player (number 11),Female soccer player (in blue),Female soccer player (in blue, background),Female soccer player (in white, background),Referee,Soccer field,Soccer goal,Black netting,Chain link fence,Houses,Trees,Sky,White lines (field markings),Orange and black equipment bag,Green hill [LABEL] 1
+[TEXT] quiz how many of these things have you shouted while falling to your death at fao schwarz [OBJECTS] FAO Schwarz store sign, awning, doorway, two toy soldier hats, two toy soldiers in costume, four young women, man in black suit, man in red polo shirt, man in red t-shirt, man in white tank top, child in striped shirt, white purse, brown purse, cell phone, sidewalk, building, posters, display window, door, people, tourists [LABEL] 0
+[TEXT] this bowl has a built in chopstick holder [OBJECTS] bowl, chopsticks, table [LABEL] 1
+[TEXT] fbis comey says obama did not order wiretapping of trumps new york office regarding fbi involvement in testimony before house intelligence committee [OBJECTS] Donald Trump, Neil Gorsuch, suit jacket, tie, hand, light box, picture frame, painting, person, military uniform [LABEL] 1
+[TEXT] a lamp made my physics notebook look like the surface of the moon [OBJECTS] Spiral notebook, graph paper, pencil writing, desk lamp, blurred background objects [LABEL] 1
+[TEXT] i come in peace [OBJECTS] Wall lamp, light bulb, white tiles, mirror, reflection in mirror [LABEL] 0
+[TEXT] knocked my sawhorse over and cracked open the layers of paint ive sprayed [OBJECTS] Concrete block, Metal strip, Pencil [LABEL] 1
+[TEXT] my cat brought in a foetus [OBJECTS] baby bird, egg tooth [LABEL] 1
+[TEXT] axis workers get no wages wwii poster thirteenth naval district [OBJECTS] Nazi soldier, swastika, rifle, people working, poster, ruler [LABEL] 0
+[TEXT] when to stand to get a good picture [OBJECTS] sign, footprints, floor [LABEL] 1
+[TEXT] end of the checkout line the looming crisis for american cashiers [OBJECTS] Building, Sign, Awning, Door, Windows, Bushes, Curb, Sidewalk, The Guardian logo [LABEL] 1
+[TEXT] eu memers seeking asylum in america [OBJECTS] ship, people, water, rope, mast, railing, lifeboat, hull, deck, crowd, dock, sky, buoy [LABEL] 0
+[TEXT] clouds photographed by an international space station astronaut orbiting over canada latitude longitude on [OBJECTS] Clouds, Earth's atmosphere, ocean, landmasses [LABEL] 1
+[TEXT] at first i was told this gator my best friends finally got the traffic sign [OBJECTS] Car, Van, Car, Building, Sign, Sky [LABEL] 0
+[TEXT] watching reruns and todays date appeared on the show [OBJECTS] Television, Magazine page (on TV screen), Woman (on magazine page, TV screen), Man (on magazine page, TV screen), Cityscape (on magazine page, TV screen), Text (on magazine page, TV screen), "Idea Fair" (text on magazine page, TV screen), "Sat Oct 10th" (text on magazine page, TV screen), Books (on shelves), Manga (books on shelves), Shelf, Shoe, Bumblebee mask, Crayons [LABEL] 1
+[TEXT] on rainy days even the umbrella bags feel a little sadder [OBJECTS] plastic umbrella bag, plastic umbrella bag, metal sign holder, metal rack base [LABEL] 0
+[TEXT] how russia persecutes its dissidents using us courts [OBJECTS] "THE", gold square,"D", "BRIEF" [LABEL] 1
+[TEXT] terrier [OBJECTS] Car, Car, Car, Car, Van, Bus, Trash bag, Sidewalk, Street, Brick wall [LABEL] 0
+[TEXT] david cameron to apologize for saying queen purred over scottish vote result [OBJECTS] David Cameron, Michael Bloomberg, suit, tie, collared shirt, windows, metal beams, glass railing, flags (British and American), people walking, men in suits, white shirts, dark pants, building interior, floor [LABEL] 1
+[TEXT] patent troll asks judge for gag order to silence opponent [OBJECTS] Two men, Sky, The United States Capitol Building [LABEL] 1
+[TEXT] stares at me when im going to the bathroom [OBJECTS] Door, doorknob, door plate, keyhole [LABEL] 0
+[TEXT] the trump administration is threatening to publicly release the private data of immigrants and foreign visitors [OBJECTS] Donald Trump,suit jacket,shirt,tie,US flag,microphone,lapel pin [LABEL] 1
+[TEXT] post game thread the minnesota timberwolves are in the middle of the challenges was awarded a vintage delorean [OBJECTS] White lion, Dark-colored dog, Chain-link fence, Dirt path, Dry grass, Metal pole [LABEL] 0
+[TEXT] japan moments before attacking pearl harbour [OBJECTS] man, hat, trench coat, tie, hand [LABEL] 0
+[TEXT] sheryl sandberg says these words are the best career advice she ever got [OBJECTS] Webpage, title, article text, author name, date and time of posting, Twitter icon, comment icon, image credit, person's name (Sheryl Sandberg), person's name (Eric Schmidt) [LABEL] 0
+[TEXT] stairs to nowhere self titled [OBJECTS] Stairs, Railing, Wall, Landing, Floor [LABEL] 0
+[TEXT] rubber ducks in a pool [OBJECTS] Yellow hard hats, People, Building, Archways, Monument, Pavement/ground, Snow, Orange and white barrier/fencing [LABEL] 0
+[TEXT] you are one of us too pronazi belgium [OBJECTS] poster, man, uniform, car, hand, arm, hat, badge, text [LABEL] 0
+[TEXT] my fiancee found this big chunk of peanut butter in her reeses puffs box this morning [OBJECTS] bowl of cereal, ice cube tray, countertop, clump of food [LABEL] 1
+[TEXT] the way these shadows are casted during golden hour [OBJECTS] Trees, Path, Dirt, Grass, Shadows [LABEL] 1
+[TEXT] golfer finally wins her club championship after years of trying [OBJECTS] golf club, golfer, golf course, sky, grass, hills/landscape, woman, man, window, picture frame/award, trees [LABEL] 1
+[TEXT] rare photo of nazi party member reading mien kampf circa [OBJECTS] Donald Duck, Book, Nazi armband, Swastika, Table, Teacup, Saucer, Piece of bread/toast [LABEL] 0
+[TEXT] i guess i have to start carving [OBJECTS] sticker, sticker, sticker, sticker, sticker, sticker, sticker, sticker, hand dryer [LABEL] 1
+[TEXT] nirvana releases nevermind [OBJECTS] Bart Simpson, water, dollar bill, fish hook [LABEL] 0
+[TEXT] nate diaz daps up shaq [OBJECTS] man, man, hoodie, shorts, necklace, watch, stacked boards, warehouse setting [LABEL] 1
+[TEXT] me enjoying my cake day [OBJECTS] man, jacket, shirt, pants, bench, cupcake, hand [LABEL] 0
+[TEXT] sun bears [OBJECTS] three sun bears,concrete wall,barred window,rocks,dirt,cage bars,tree branch [LABEL] 1
+[TEXT] us wind and solar power helped prevent up to deaths [OBJECTS] Buildings,Skyscrapers,City,Hills,Smog,Haze [LABEL] 1
+[TEXT] home grown eggplant [OBJECTS] eggplant, hand, watch, wooden floor, refrigerator, person [LABEL] 1
+[TEXT] i saw a gas station in the middle of the water [OBJECTS] Chevron gas station, floating building, water, trees, mountains, bus or RV [LABEL] 1
+[TEXT] doggy daycare [OBJECTS] Boston Terrier, Sweater, Corgi, Pomeranian, Artificial turf, Jeans, Sneakers [LABEL] 1
+[TEXT] frog getting eaten by a snake [OBJECTS] Snake, Frog, Branch, Leaves [LABEL] 1
+[TEXT] the veins of this desert [OBJECTS] mountains, road [LABEL] 1
+[TEXT] mother lets it all hang out nsfw [OBJECTS] Woman, baby, toddler, cell phone, baby carrier/sling, couch, serape/blanket, vacuum cleaner, suitcase/rolling luggage, picture frame, wall, floor, wooden couch leg [LABEL] 0
+[TEXT] at the mall theres a power outlet on the ceiling [OBJECTS] ceiling, light fixture, exit sign, column, ceiling tiles, seams between ceiling tiles [LABEL] 1
+[TEXT] dogwood [OBJECTS] piece of wood, knot, couch, wood stove, curtain [LABEL] 0
+[TEXT] daylight savings time poster [OBJECTS] "VICTORY!" text, "CONGRESS PASSES DAYLIGHT SAVING BILL" text, clock face, red circle, Uncle Sam, Uncle Sam's hat, stars on Uncle Sam's clothes, stripes on Uncle Sam's pants, Uncle Sam's shoes, hoe, rifle, small clock face, small person, small person's hat, "Get Your Hoe Ready!" text, grass [LABEL] 0
+[TEXT] a guy trying to drink from a waterfall [OBJECTS] waterfall, man, jacket, beanie, jeans, shoes [LABEL] 1
+[TEXT] wild animals trampled by turtles [OBJECTS] Tortoise, Shell, Ground, Text "Wild Animals", Text "Trampled by Turtles" [LABEL] 0
+[TEXT] each kolkhoz and plant will give a pilot to our air fleet ussr s [OBJECTS] Biplane, Pilot, Co-pilot, Person waving, Red star, Number 9, Factories, Fence, Field, Trees, Buildings, People, Text [LABEL] 0
+[TEXT] this shopping cart has an idle directory so you dont have to wander [OBJECTS] ShopRite aisle directory sign, beef eye round, price tag [LABEL] 1
+[TEXT] toilet paper security level master lock [OBJECTS] Wall, tiles, shelf, toilet paper holder, toilet paper rolls (3), padlock, metal pipe, metal bracket, floor, floor planks/tiles [LABEL] 1
+[TEXT] all our yesterdays we do what we can [OBJECTS] Car, Trees, Tire, Manhole cover, Ground, Grass, Parental Advisory sticker [LABEL] 0
+[TEXT] use of deadly force by police disappears on richmond streets [OBJECTS] Car exhaust pipe, Car bumper, Car body, Gun shadow, Hand shadow, Reflection of a person, Reflection of a vehicle, Reflection of trees/objects, Road reflection [LABEL] 1
+[TEXT] big kitty yawns on a ball pit [OBJECTS] cat, inflatable pool, plastic balls [LABEL] 1
+[TEXT] viacoms proposed nickelodeonthemed floating resort to be situated at coron palawan released [OBJECTS] Roller coaster, roller coaster track, glove-shaped entrance, sign reading "Glove World", glove-shaped Ferris wheel, glove-shaped ride, fence, glove-shaped topiary, light post with flag, SpongeBob SquarePants, Patrick Star, road/sidewalk, jellyfish, glove decorations, red and white striped tent/awning [LABEL] 0
+[TEXT] a kid is sitting on erdogans lap [OBJECTS] man in black suit,woman in black hijab,man in black suit,man in black suit,Recep Tayyip Erdoğan,small child,armchair,coffee table,tea cup,tea cup,staircase,glass railing,chandelier,picture frame,red box,gold and white patterned armchair [LABEL] 1
+[TEXT] my friend playing hacky sack on our lunch [OBJECTS] man, baseball cap, t-shirt, shorts, shoes, frisbee, water bottles, grass, parking lot, trees, car [LABEL] 1
+[TEXT] this dispatcher actually has no idea what it is tests have been sitting there for years [OBJECTS] gumball machine, gumballs, Skittles wrapper, M&Ms wrapper, coin mechanism, stand [LABEL] 0
+[TEXT] baby spiders next to mama [OBJECTS] window frame, spider egg sacs, baby spiders, spider web, window pane [LABEL] 1
+[TEXT] scientists discover new alien plant hybrid [OBJECTS] meerkat, meerkat, meerkat, meerkat, heat lamp, branch, branch [LABEL] 0
+[TEXT] man drives miles to deliver crosses for orlando victims [OBJECTS] Man, White hard hat, White t-shirt, Khaki pants, Brown shoes, White crosses, Red hearts, Green trees, Fountain, Sidewalk, Black fence, Informational sign, Vehicle, Building, Streetlight [LABEL] 1
+[TEXT] tree swallowing its metal guard [OBJECTS] Tree, Motorcycle, Trailer, Car, Building, Street, Belt buckle, Curb, License plate, Motorcycle wheel, Motorcycle handlebar, Motorcycle headlight, Motorcycle seat, Motorcycle exhaust pipe, Car wheel, Car door, Car window, Sidewalk, Metal railing, Metal bar [LABEL] 1
+[TEXT] this spilled lotion that looks like a sock [OBJECTS] wooden dresser, piece of silly putty [LABEL] 1
+[TEXT] concerned russian citizen asks an important question [OBJECTS] Morty Smith, hairbrush, gold sweater vest, green tie, white shirt, bathroom sink, faucet, orange fish-shaped toothbrush holder, toothbrush, electrical outlet, white toilet, framed picture of white dog, brown picture frame, bathroom vanity, light blue wall [LABEL] 0
+[TEXT] this tree disapproves of your shenanigans [OBJECTS] Tree, branches, leaves, trunk, knot, street, curb, grass, bushes, house, driveway, mailbox, wooden post [LABEL] 0
+[TEXT] thats not her hand [OBJECTS] person, person, person, bus seat, bus seat, bus seat, yellow handrail, notepad, pink shirt, black suit jacket [LABEL] 0
+[TEXT] the cathedral in valencia houses the holy grail made in the first century bc [OBJECTS] Display case, Chalice, Gold reliquary, Glass panels, Stone carvings, Angels, Architectural details, Light fixture [LABEL] 1
+[TEXT] us britain france others skip nuclear weapons ban treaty talks [OBJECTS] Person, Person, Person, Person, Person, Person, Person, Person, Person, Microphone, Podium, Suit, Suit, Suit, Suit, Suit, Suit, Tie, Tie, Tie, Dress, Shirt, Shirt, Shirt, Shirt [LABEL] 1
+[TEXT] paranoid milk dispenser at the midway airport [OBJECTS] Cream dispenser, dispenser nozzle, drain grate, countertop [LABEL] 0
+[TEXT] this statue in a museum [OBJECTS] Stone sculpture, display stand, informational plaque, small image on plaque, black chair, spotlight [LABEL] 1
+[TEXT] this picture of jeanclaude juncker theodor waigel drinking beer [OBJECTS] man with glasses, man with gray hair, beer glass, beer glass, man with glasses, man with glasses, trumpet, man with glasses [LABEL] 1
+[TEXT] this statue of a boy riding a speeder bike [OBJECTS] person, person, statue, train, platform, sign, metal ring [LABEL] 1
+[TEXT] where do his hands go trump takes aim at al frankenstien over groping claims [OBJECTS] Man, face, hand, glasses, eye, eye, nose, mouth, hair, eyebrow, eyebrow, cheek, cheek, ear, suit jacket, shirt collar [LABEL] 1
+[TEXT] this mm did not get its outer coat of sugar [OBJECTS] M&M's candy wrapper, M&M's candy, wooden table [LABEL] 1
+[TEXT] hugh jackman lifting weights [OBJECTS] man, barbell, weight plates, lifting platform, gym shoes, sleeveless shirt, shorts, weightlifting belt, mirror, gym equipment, building, window, trees [LABEL] 1
+[TEXT] north korea condemns us travel ban [OBJECTS] Binocular viewers, Coin-operated binoculars, People, Man in striped shirt, Woman in black shirt and hat, Man in white shirt, Woman in black dress, Man in blue shirt, Woman in black and white dress, Man in white shirt, River, Trees, Hills, Wall, Sidewalk [LABEL] 1
+[TEXT] cat got your tail [OBJECTS] window, orange cat, white cat, cat tree, towel [LABEL] 0
+[TEXT] hes really pleased with his new haircut [OBJECTS] Gray rectangular plate, Metal lock mechanism, Black dial, Screws, White wall [LABEL] 0
+[TEXT] this pigeon with a missing finger [OBJECTS] pigeon, pavement, pavers, tiled floor, ground [LABEL] 1
+[TEXT] british red cross raises over m during manchester benefit concert bringing total to m [OBJECTS] microphone, microphone, Ariana Grande, Miley Cyrus, sweatshirt, t-shirt, checked pants, man, guitar, keyboard, water bottle, amplifier, stage, black pants [LABEL] 1
+[TEXT] giant cat in the fields [OBJECTS] cat,mountains,trees,grass,rocks,wooden picnic table [LABEL] 0
+[TEXT] the inside temp of our rd floor building ceiling ouch [OBJECTS] Infrared thermometer, hand, arm, ceiling, roof trusses, pipes, windows, walls, floor [LABEL] 1
+[TEXT] man hugging his displeased dog [OBJECTS] Alaskan Malamute dog, person, blue jacket, blue jeans, television, TV stand, remote control, DVD player or cable box, pink and purple image on TV screen, black cases, window, wall, carpet, wooden decorative letter "S" [LABEL] 1
+[TEXT] a guy and his dog about to eat a birthday meal x [OBJECTS] man, dog, Pomeranian, steak, cake, candle, number 5, plate, plate, fork, knife, table, chair, kitchen, door, refrigerator, doorway [LABEL] 1
+[TEXT] found a rock painted like the yellow mm [OBJECTS] painted rock, gravel, dirt, twig [LABEL] 1
+[TEXT] att customer politely emails ceo gets terse reply from att lawyer [OBJECTS] man in suit,video wall,man in lab coat,woman in blue scrubs,logo,microscope,man in black suit,woman in white shirt [LABEL] 1
+[TEXT] kim jongun squatting and looking at a glass bottle [OBJECTS] Men in dark suits,Woman in gray suit,Kim Jong-un,Bottles of liquid,Notepads,Pens,Tables with bottles,Red-topped bottles,Green-topped bottles,Clear-topped bottles [LABEL] 1
+[TEXT] the man who stole a plane said he didnt need much help ive played some video games [OBJECTS] Airplane, sky [LABEL] 1
+[TEXT] trade war threatens to destabilize maine lobster industry at peak season [OBJECTS] man, blue gloves, lobster, lobster trap, rope, man in green hoodie, life preserver, orange life preserver, blue crate, lobsters in crate, plastic bands, boat railing, boat window, electronic device, papers [LABEL] 1
+[TEXT] man standing in front of a shelf holding huge tits sfw [OBJECTS] man, bird figurines, t-shirt, jacket, pants, shelves, garden gnomes, Buddha statue, plant pots, price tags, black wall, cardboard box [LABEL] 1
+[TEXT] jose mourinho squatting [OBJECTS] Jose Mourinho, suit, tie, vest/sweater, shoes, soccer field, crowd/spectators, stadium/stands [LABEL] 1
+[TEXT] a selfie near the bubble pods resort in jordan [OBJECTS] Man, bubble pods, mountain, town, walkway, railing, cloudy sky [LABEL] 1
+[TEXT] this picture autographed by william shatner [OBJECTS] framed photograph, picture frame, wall, signature, Star Trek logo, Star Trek uniform, man, head, hair, face, eyes, nose, mouth, neck, shoulders, arms, hands, gold shirt, black collar, blue bowling ball [LABEL] 1
+[TEXT] the freezer condensed the glue on this cork and made the little plastic top come off [OBJECTS] Bottle of The Botanist Gin, Cork, Lemon Peel, Computer Keyboard, Book, Mouse, Plate, Spoon/Knife, Desk, Cable [LABEL] 1
+[TEXT] a city in indonesia photographed from the international space station on [OBJECTS] Roads, Houses, Residential areas, Neighborhoods, Waterways, Canals, Lakes, Ponds, Vegetation, Trees, Fields, Open spaces, Clouds [LABEL] 1
+[TEXT] this guy is patiently waiting for my phone calls [OBJECTS] Laptop, cell phone, papers, desk, box, electronic device [LABEL] 0
+[TEXT] this picture i took of my dog makes it look like he was the one that took the photo [OBJECTS] Dog,Tongue,Person,Hand,Clothing [LABEL] 1
+[TEXT] santorum takes in the south [OBJECTS] Newspaper, StarTribune newspaper box, headline "Santorum takes 2 in South", headline "Hennepin expanding courtroom security", headline "LEGISLATORS LOSE TASTE FOR WELLNESS CAMPAIGN", photo of Rick Santorum, photo of a swimmer, photo of people, text, green frame [LABEL] 1
+[TEXT] in an airport garage remnants of someones fun weekend [OBJECTS] Bottle of Jameson Irish Whiskey, Vape juice bottle, Cigar, Lighter, String/wire [LABEL] 1
+[TEXT] this girl is trying to make disneyland pay for her college tuition [OBJECTS] Black circle, White "U", Diagonal line [LABEL] 0
+[TEXT] unimpressed fisherman [OBJECTS] person, fish, rain jacket, scale, number tag, wooden planks, hose, hand truck, door, window, pole, hook [LABEL] 1
+[TEXT] state cracks down on senior citizen euchre [OBJECTS] Playing cards, Hand, Bandage, Ring [LABEL] 1
+[TEXT] palm jebel ali dubai united arab emirates photographed on from outer space by an international space station astronaut [OBJECTS] Palm Jumeirah, breakwaters, water, roads, buildings, airport, coastline [LABEL] 1
+[TEXT] a curious bambi [OBJECTS] Faucet, Water stream, Sink, Drain, Rust stains, Cracks [LABEL] 0
+[TEXT] laughing cheetahs [OBJECTS] Two cheetahs, Grass, Dirt mound, Tree, Sky [LABEL] 1
+[TEXT] rival football teams work together to allow a teenager with cerebral palsy to score a touchdown [OBJECTS] Football field, Red track surface, Football players, Child in a wheelchair, Person in black jacket, Trees, Buildings, Goal post, Fence, Shadows [LABEL] 1
+[TEXT] there is a longlegged distressed creature in my ice cream [OBJECTS] bowl, chocolate pudding, spoon [LABEL] 0
+[TEXT] emperor tiberius of the roman empire declaring his support for boris johnson in his run to be the next prime minister c ad [OBJECTS] Bust of Roman Emperor, Face carved into bust, Face carved into bust (close-up) [LABEL] 0
+[TEXT] just what i need [OBJECTS] Glasses, phone, keys, package [LABEL] 1
+[TEXT] the name of the small town where i waited for my train was named redditt [OBJECTS] sign, streetlight, trees, sky [LABEL] 1
+[TEXT] ocnsfw playboys miss was found in a timecapsule on fort bragg nc [OBJECTS] Two hands, poster of a woman, newspaper, black tarp, brown boot [LABEL] 1
+[TEXT] paw patrol selftitled [OBJECTS] Chase (Paw Patrol character costume),Skye (Paw Patrol character costume),Child,Shoes,Grass [LABEL] 0
+[TEXT] this spiders color [OBJECTS] Green spider, web, dark surface [LABEL] 1
+[TEXT] when your outfit matches the houses [OBJECTS] woman, backpack, red building, blue building, pink building, white sheet, windows, doors, tiled ground, tree, antenna, flower boxes, flowers [LABEL] 1
+[TEXT] a young gay couple make out in front of good boy christians [OBJECTS] Man, man, man, man, man, man, boxing ring, ropes, audience, man, man, man, boxing glove [LABEL] 0
+[TEXT] ema tablet found outside the kasugataisha shrine in nara [OBJECTS] Wooden ema tablets, Strings, Handwriting, Red stamps/seals [LABEL] 1
+[TEXT] dog in a blanket on a boat [OBJECTS] Dog, Beagle, Blanket, Canoe, Lake, Trees, Forest, Mountain, Sky, Clouds, Water, Reflection [LABEL] 1
+[TEXT] colin kaepernick returns to football [OBJECTS] text, Colin Kaepernick, football, July 2, 2018, soccer player, soccer ball, soccer field, scoreboard, FOX logo [LABEL] 0
+[TEXT] nanga parbat the rescue team finds first of the missing alive [OBJECTS] Knit cap, face, man, hooded jacket, sleeping bag/puffy jacket, tent [LABEL] 1
+[TEXT] hey guys what are you up to gettin recycled too huh yeah super cool cooooolio coolness [OBJECTS] Cardboard box with face,Cardboard box,Cardboard box,Cardboard piece,Cardboard box,Cardboard box with blue logo [LABEL] 0
+[TEXT] damnit jim im a toolbox not a sandwich press [OBJECTS] Round loaf of bread, Two glasses of red wine, Clear plastic pitcher, Red silicone spatula, Two packages of ground meat, Head of garlic, White onion, Red bell pepper, Yellow bell pepper, Green bell pepper, Jalapeño pepper, Two packages of shredded Monterey Jack cheese, Package of pre-cooked bacon, Package of smoked salmon [LABEL] 0
+[TEXT] unacceptableuse right side up [OBJECTS] Speaker, Speaker stand, Tripod, Fence, Crowd, Sky, Grass, Text, Upside-down reflection of the scene [LABEL] 0
+[TEXT] this is a cardboard scratcher seemed like a little hurricane survivor [OBJECTS] cat, fence, grass, concrete block, plants [LABEL] 0
+[TEXT] this guy in a nature catalogue toasting a poptart using a stick over a fire [OBJECTS] man, jacket, hat, fire, kindling, matchbox, twig, boots, ground, rocks, pants, mug [LABEL] 1
+[TEXT] another shot of the blue angels right before they broke formation over epcot [OBJECTS] Spaceship Earth, Blue Angels, F/A-18 Super Hornet, Contrails/Vapor Trails, Sky, Clouds, Plants/Shrubbery/Flowers, Fountain/Water Feature [LABEL] 1
+[TEXT] beautifully colored feather [OBJECTS] Arch, column, stained glass light patterns [LABEL] 0
+[TEXT] gross doctors recommend drinking warm cups of clam juice a day [OBJECTS] Glass, drink, ice cubes, table, couch, pillows [LABEL] 0
+[TEXT] i know we die after mating but i just want to jump through glass desk [OBJECTS] car, road, trees, rocks, grass, shadows, white lines [LABEL] 0
+[TEXT] us senator bans funding for beerbots that dont exist [OBJECTS] Man, suit, tie, podium, poster, robotic arm, easel, chairs, desks, C-SPAN2 logo, U.S. Senate sign [LABEL] 1
+[TEXT] a seal whispering something to an excited girl from rpics [OBJECTS] Woman, sea lion, rocks, fleece pullover, khaki pants, logo [LABEL] 1
+[TEXT] toddler enjoying an afternoon of tobogganing with her mother [OBJECTS] Woman, Girl, Sled, Snow, Glasses, Knit Hat, Navy Blue T-Shirt, Gloves, Pink Snowsuit, Pink Boots, Black Pants, Black Boots [LABEL] 1
+[TEXT] oh no [OBJECTS] Storm drain, two vertical rectangular slots, rectangular opening, leaves, sidewalk, street, curb [LABEL] 0
+[TEXT] renty only the innocent survive [OBJECTS] Lighthouse, sea, water, sky, reflection of lighthouse in water [LABEL] 0
+[TEXT] aerial view of football stadium [OBJECTS] Wooden barrel, Wooden barrel, Wooden barrel, Book, Text, "Bee Movie Script" book title, "Read" text, "Weight 1" text, "Value 420" text, Wooden fence [LABEL] 0
+[TEXT] i feel like im being watched [OBJECTS] Textbook, grapefruit slice image, electronic device, yellow tissue box, other books [LABEL] 0
+[TEXT] and this has come up before and he still has a sweet tooth for rodents [OBJECTS] Person, Person, Person, Grass, Cane, Tree, Car, Sidewalk, Building, Leggings, Shirt, Jeans, Sneakers [LABEL] 0
+[TEXT] this towel hook in my parents bathroom [OBJECTS] mustache-shaped wall hook, screws, white door [LABEL] 1
+[TEXT] moose seen floating on lone iceberg in north dakota river [OBJECTS] Bharal (blue sheep), ice floe, river, water, rocks/debris [LABEL] 1
+[TEXT] many people dropping mentos into diet coke simultaneously [OBJECTS] People, Raincoats, Blue raincoats, Yellow raincoats, Green raincoats, Table, Golden statues, Sprayed liquid, Green plants, Trees [LABEL] 1
+[TEXT] s soviet poster literacy is the road to communism [OBJECTS] RSFSR acronym, stars, clouds, fire, torch, man, wings, book, text, Pegasus, factories, hammer and sickle symbol, text, border [LABEL] 0
+[TEXT] missouri police searching for marijuana in a stage cancer patients hospital room incites a viral video [OBJECTS] Hospital bed, Patient's hand, IV drip, IV catheter, IV tubing, Hospital gown, Bed sheet [LABEL] 1
+[TEXT] ss force prisoner onto train bound for auschwitz [OBJECTS] Train, train door, panda mascot, man in gray suit, man in black uniform, man in black uniform with hat, man in black hat, people in background, train platform, platform markings, roof support beam, overhead structure, window reflection [LABEL] 0
+[TEXT] black parents shocked when son was born white [OBJECTS] Man, Woman, Two children, Purple shirt, White shirt, Blue overalls, Orange top, Gold ring [LABEL] 1
+[TEXT] bill gates giving a speech [OBJECTS] Bill Gates,microphone,glasses,suit,tie,hand,watch,background/backdrop [LABEL] 1
+[TEXT] awardwinning lamb under investigation for performanceenhancing drugs [OBJECTS] lamb,grass,field,trees [LABEL] 1
+[TEXT] a goat wearing a crown this years king puck [OBJECTS] Goat,Crown,Horns,Hands,Person,Person,Clothing,Clothing [LABEL] 1
+[TEXT] this paved speed bump at an old house [OBJECTS] paved speed bump, asphalt road, grass lawn, hedge [LABEL] 1
+[TEXT] zooey deschanel was a boston bombing suspect according to fox news [OBJECTS] HuffPost logo [LABEL] 1
+[TEXT] local turkish barber in uk has made an amazing bouquet from local wildflowers including stinging nettles [OBJECTS] fan, bouquet of flowers, vase, table, wall, electrical cord, shadow of the bouquet [LABEL] 1
+[TEXT] boxboy off track ep [OBJECTS] cardboard box,person,running track,grass,sky,clouds,parental advisory sticker [LABEL] 0
+[TEXT] sleepy cookies [OBJECTS] Pastries,Box,Plastic wrap [LABEL] 0
+[TEXT] white house celebrates national freedom of information day by making office of the administration completely unfoiaable [OBJECTS] Blue circle,Blue circle,Blue circle,Blue circle,Blue circle,Gray circle,Gray circle,Gray circle,Gray circle [LABEL] 1
+[TEXT] this restaurant in china has an arcade machine that you can play for free [OBJECTS] arcade game, screen, wooden chairs, cushions, plants, pots, window, brick wall, lanterns, picture frame [LABEL] 1
+[TEXT] houston police put an end to the use of whataburger tents as crime scene markers [OBJECTS] Building, A-frame roof, Orange and white stripes, Whataburger sign, American flag, Light poles, Cars, Parking lot, Palm trees, Bushes, Sidewalk, Curb, Grass, Street, Driveway, SUV, Sedan, Van [LABEL] 1
+[TEXT] cryptocurrency transaction machine [OBJECTS] crypto ATM, screen, keypad, cash dispenser, instructions, logo [LABEL] 1
+[TEXT] highly detailed closeup picture of president donald j trumps penis taken by an advanced kremlin spy camera during trumps affair with stormy daniels [OBJECTS] face [LABEL] 0
+[TEXT] jurassic bark the furminator [OBJECTS] dog,cubes,red lines,green lines,teal lines,title "Jurassic Bark",subtitle "The Furminator" [LABEL] 0
+[TEXT] yosemite valley in the fall [OBJECTS] Trees, River, Rocks, Mountains, Clouds, Reflection of trees in water, Reflection of mountains in water, Reflection of clouds in water, Reflection of sky in water, Leaves,  Autumn foliage/Fall colors, Sky, Forest, Valley [LABEL] 1
+[TEXT] on this date the soviet union invaded australia [OBJECTS] Street, Buildings, Person, Train cars, Train tracks, Cable or hose, Crowd of people [LABEL] 0
+[TEXT] cia cash ends up in coffers of al qaeda [OBJECTS] men, suits, ties, traditional clothing, chairs, wooden furniture, flowers, hats/caps, faces, beards, mustaches, heads, hands [LABEL] 1
+[TEXT] how twitter is changing modern warfare [OBJECTS] Bomb, Fuse, String, Twitter Bird, Red Background [LABEL] 1
+[TEXT] how brussel sprouts grow [OBJECTS] brussels sprout stalk, brussels sprouts, price tag, snow peas, hand [LABEL] 1
+[TEXT] this guy was a bit heated [OBJECTS] Holmes space heater, thermostat knob, power knob, power indicator light, metal grating, handle, wooden object (partially visible) [LABEL] 0
+[TEXT] picture of a clear american landscape before pollution [OBJECTS] John Cena, black long-sleeved shirt, brown pants, mountains, trees, snow, sky, utility pole [LABEL] 0
+[TEXT] bounty hunters mistakenly target phoenix police chiefs house [OBJECTS] Man, face, head, beard, mustache, eyes, eyebrows, nose, mouth, forehead, cheeks, ears, hair, blue shirt/clothing [LABEL] 1
+[TEXT] larry donnell lost in fantasy football because he sat himself [OBJECTS] Football, player, jersey, helmet, facemask, arm, hand, glove, referee, crowd, number 84, NY Giants logo, NFL patch, Washington Redskins player, jersey number 98 [LABEL] 1
+[TEXT] richard linklaters before sunrise [OBJECTS] woman, magazine, woman, plastic bag, train seats [LABEL] 0
+[TEXT] saw this truck driving around town the other day [OBJECTS] Red pickup truck, Deadpool decal, Ram truck logo, "Do You Follow Jesus This Close?" text, license plate, "X FORCE" text, "UNICORN" text, tailgate handle, taillights, rear bumper, road, other vehicle [LABEL] 1
+[TEXT] googles new controller cheesin for the cameras [OBJECTS] Camera lens, Microphone, Charging port, Status LEDs [LABEL] 0
+[TEXT] north korea denies anthrax production invites obama to verify [OBJECTS] flag, flagpole, sky [LABEL] 1
+[TEXT] community college students take nd in nasa robotics competition [OBJECTS] Group of people, Rocket, Man in black shirt, Man in blue shirt, Woman in black jacket, Man in green shirt, Person in sunglasses, Man in plaid shirt, Woman in blue jacket, Man in gray shirt, Robot, Backpack, Lanyard, Name tag, Sunglasses, Baseball cap, Shorts, Sneakers, Sandals, Concrete platform, Metal railing, Orange structure, Trees, Sky [LABEL] 1
+[TEXT] the italian people turn on benito mussolini circa [OBJECTS] Popuko, desk, paper, table [LABEL] 0
+[TEXT] mlb teams are coming together so this young fan with dprinted hand can throw out the first pitch at every ballpark [OBJECTS] Girl, baseball, baseball glove, orange shirt, pigtails, orange and black bows, dugout, railing, Bank of America sign, people in the stands, camera, Orioles sign [LABEL] 1
+[TEXT] brother the world famous typewriter [OBJECTS] Cardboard box, Brother logo, Text "THE WORLD FAMOUS", Text "TYPEWRITER", Illustration of a typewriter, Orange and black grid design [LABEL] 0
+[TEXT] ingrid larson lucidity [OBJECTS] text "INGRID LARSON", text "lucidity", two birds, ocean, sky [LABEL] 0
+[TEXT] texas churches sue fema for disaster relief after harvey [OBJECTS] Man,Glasses,Wall display,FEMA logo,US Department of Homeland Security seal [LABEL] 1
+[TEXT] suicide by friday one last ride [OBJECTS] Car, Road, Trees, School bus sign, Utility pole, Burned car, Mailbox, Smoke, Sky, Power lines, Street sign post [LABEL] 0
+[TEXT] a stretch of beach in southern manhattan under the brooklyn bridge looking east [OBJECTS] Elevated train tracks, Support beams, Construction sheeting, Street light, Sidewalk, Railing, Driftwood, Sandy beach, Water, Building under construction, Skyscraper, Bridge, Seagulls, Pipes [LABEL] 1
+[TEXT] slow down industrial worker usa [OBJECTS] man, hat, clock, overalls, arms crossed, text [LABEL] 0
+[TEXT] this dance off [OBJECTS] man doing a headstand, man in a suit, man in a light purple shirt, chandelier, stage decorations, curtains, throne, tables, people sitting down [LABEL] 1
+[TEXT] distracted [OBJECTS] window, cardboard box, face drawing, metal frame, wall [LABEL] 0
+[TEXT] fog in chicago [OBJECTS] Skyscrapers, Buildings, River, Bridges, Street, Road, Boat, Fog, Clouds [LABEL] 1
+[TEXT] the amount of s in my smoothies best before date [OBJECTS] carton, juice, lid, best before date, orange, passion fruit, apple, leaves [LABEL] 1
+[TEXT] left for dead in a plastic bag girl who overcame a lifetime of hardship now off to college [OBJECTS] Graduation cap,Woman,Hair,Gown,Face,Eyes,Nose,Lips,Eyebrows,Gold tassel,Earring (possibly, partially obscured) [LABEL] 1
+[TEXT] butterfly fresh out of the cocoon [OBJECTS] monarch butterfly, chrysalis [LABEL] 1
+[TEXT] caligula declares war on neptune circa ad [OBJECTS] man, suit, knife, ocean, beach, clouds, sky [LABEL] 0
+[TEXT] the retromantics good old days [OBJECTS] Cassette tape, cassette case, screws, label, band name, album title [LABEL] 0
+[TEXT] baby born with most of skull missing celebrates first birthday [OBJECTS] baby,plaid shirt,person holding baby [LABEL] 1
+[TEXT] kim jongun climbs north koreas highest mountain [OBJECTS] Kim Jong-un, coat, snow, mountain peak, fog, sky, sunrise/sunset, short concrete posts, chain, gravel patch [LABEL] 1
+[TEXT] reasons meryl streep is overrated [OBJECTS] Woman, face, hair, earrings, jacket, lips, teeth, eyes, eyebrows, nose, cheeks, forehead, chin [LABEL] 0
+[TEXT] years ago today [OBJECTS] tweet, text, photo, clock, men, platform, writing, Ryan Parker profile picture, follow button, retweet button, like button, reply button, share button [LABEL] 0
+[TEXT] press start to play the trips [OBJECTS] Man, shirt, tie, barcode, text, photo border [LABEL] 0
+[TEXT] donald trump claps back at eminem with freestyle of his own [OBJECTS] Eminem,Microphone,Durag,Tattoos,Watch,Donald Trump,Suit,Tie,Podium,Papers,"The word ""BEEF""" [LABEL] 0
+[TEXT] springfield man accused of cutting wifes throat [OBJECTS] Man, head, face, eye, eye, nose, mouth, ear, ear, neck, shoulder, shoulder, shirt [LABEL] 1
+[TEXT] potus and lil pope [OBJECTS] Barack Obama, Michelle Obama, Person in a suit, Woman in a striped outfit, Broomstick, Trick-or-treat bag, Halloween decorations, Cave-like entrance, Orange carpet/runner, Plants/foliage, Pumpkins, Child in a Pope costume, Toy car, Gold handle on the car, Candy, Bags of candy, Sidewalk, Street, Building/house, Black jacket, Brown sweater, Black pants, Sneakers, Dress shoes, Baskets. [LABEL] 1
+[TEXT] universal surprised bus thumb drive [OBJECTS] hand, lanyard, white plastic object, black plastic piece [LABEL] 0
+[TEXT] this f in the chat shirt [OBJECTS] Black and white patterned shirt, blue shirt, red shirt, white shirt rack, blurred people in the background [LABEL] 1
+[TEXT] parade of elephants arches national park utah [OBJECTS] sand, rocks, bushes, shrubs, trees, sky, clouds, red rock formations, arch, sandstone, desert plants, double arch, north window, turret arch [LABEL] 0
+[TEXT] rantimlm prepare to take out pyramid schemes [OBJECTS] man, stick, stick, stick, stick, stick [LABEL] 0
+[TEXT] tiny superheroes [OBJECTS] Sewing machine, Red fabric with yellow stripe, White sewing machine, Woman with red hair, White blouse with 3/4 sleeves, Teal necklace, Watch, Red fabric, Woman in blue t-shirt, Sewing machine, White table, Fabric scraps, Green plastic bin, Rolling chair, Fabric on table, Table, Plastic bags, Yellow and orange fabric, Woman in pink shirt, Red and blue fabric, Table, Chair [LABEL] 1
+[TEXT] this guy sniffing flowers by a womans butt [OBJECTS] Man, Woman, Underwear, Underwear, Bouquet of flowers, Window, Window sill, Window frame, Curtains, Wall [LABEL] 1
+[TEXT] year old girl scowling [OBJECTS] toddler, hair bow, denim jacket, floral skirt, shoes, chair, ground, trees, grass [LABEL] 1
+[TEXT] a philippine coin cents found in my yard from [OBJECTS] coin, fingers, hand [LABEL] 1
+[TEXT] edm concert lights [OBJECTS] Earth, Aurora Borealis, International Space Station (ISS), Stars [LABEL] 0
+[TEXT] frog with insects in mouth [OBJECTS] CH-47 Chinook helicopter, Roman soldiers, Roman scutum (shields), Roman helmets, Roman sandals, grass, trees, ramps, helicopter landing gear, helicopter engine intakes, circular marking on helicopter, person in red in the background [LABEL] 0
+[TEXT] mother dog with her puppy in the back seat of a car [OBJECTS] dog, dog, leash, car seat, car window, headrest, seatbelt [LABEL] 1
+[TEXT] walmart carts in a target parking lot no walmart especially close either [OBJECTS] shopping carts, Target sign, advertisement, road, trees, sky, car, curb, building [LABEL] 1
+[TEXT] this guys massive package on the tram [OBJECTS] Person's hand, striped shirt sleeve, blue and green seat cover, yellow pole, black leggings, black shirt, cardboard box, cart with wheels, gray jacket, black backpack, blue jeans, glass wall/door, metal railing, black and red reusable shopping bag [LABEL] 1
+[TEXT] holly madison reveals secrets from her relationship with hugh hefner this is disgusting consider us all scarred for life after hearing this this is disturbing [OBJECTS] Woman, swimming pool, black swimsuit, blonde hair, woman, green top, blonde hair, text, arrow, image gallery link [LABEL] 0
+[TEXT] the flash in action [OBJECTS] person, superhero costume, flash symbol, glove, boots, building, tree, grass [LABEL] 1
+[TEXT] this baby walrus [OBJECTS] baby walrus, whiskers, plastic tub, water, blue plastic toy [LABEL] 0
+[TEXT] eilmeldung trump nominiert vizeprasident [OBJECTS] "T", "R", "U", "M", "P", stars, stripes [LABEL] 0
+[TEXT] woof [OBJECTS] fan, fan, fan, man in black shirt and black pants, yellow poles, white SUV, woman in car, pickup truck, black car, red tail lights [LABEL] 0
+[TEXT] kevin spacey forces himself upon a young actor circa s [OBJECTS] Toilet,Toilet seat,Toilet paper dispenser,Wall tiles,Floor tiles,Stall divider,Boy,Alien,Yellow shirt,White shoes,Saliva/vomit [LABEL] 0
+[TEXT] even plastic cups have joined the pumpkin craze [OBJECTS] Plastic pumpkin party cups, Plastic bag [LABEL] 1
+[TEXT] feed me wires [OBJECTS] electrical wires, plastic bag, food container, paper, cardboard, metal object [LABEL] 0
+[TEXT] big wheel for adults [OBJECTS] tricycle, man, hat, plaid shirt, watch, handlebars, front tire, rear tires, street, sidewalk, brick pavers, tree, buildings, people, bicycle, light pole [LABEL] 1
+[TEXT] tired dog [OBJECTS] French Bulldog, wooden deck, planks [LABEL] 1
+[TEXT] these look oddly the same [OBJECTS] man, trees, Shrek [LABEL] 1
+[TEXT] mcconnell loves turtle comparisons [OBJECTS] Glasses, nose, face, eyes, eyebrows, forehead, cheeks, mouth, chin, neck, hair, part of a suit jacket [LABEL] 1
+[TEXT] rowdy pensioners pov [OBJECTS] Man, Suit, Cliff, Road, Trees, Mountains, Sky [LABEL] 0
+[TEXT] this man who looks very much like colonel sanders standing unknowingly under a picture of colonel sanders [OBJECTS] man in blue shirt, man with white pants, man in beige shirt, Colonel Sanders advertisement, red KFC delivery bag, soda dispenser, counter, stanchion, tiled floor [LABEL] 1
+[TEXT] johane masowe members nearly murdered as punishment for being too popular [OBJECTS] [LABEL] 1
+[TEXT] swim call in the gulf of aden [OBJECTS] Water, ocean, people, sailors, ship, amphibious assault ship, well deck, sky, clouds, life preservers, buoy [LABEL] 1
+[TEXT] cnn ratings plummeted minus in just hours for naming a character act like strippers [OBJECTS] TRINITY #7 title, U.S. Price: $2.99, ON SALE 3/15, "DIVIDED WE FALL" prelude! America is divided! And now a hero has fallen and it may split the country even more. Can Batman, Superman and Wonder Woman stand against riots while defending a bigoted enemy? Don't miss the beginning of an epic adventure that will test the ideals of our three heroes! text [LABEL] 0
+[TEXT] shrooms growing out of the astro turf [OBJECTS] Mushrooms, Artificial grass, Wood, Leaf [LABEL] 1
+[TEXT] alpacas with new hair cut [OBJECTS] alpaca, alpaca, alpaca, sky, clouds, grass, field, trees, fence [LABEL] 1
+[TEXT] watch is watching [OBJECTS] watch, watch band, watch buckle, turquoise beads, gold chain, pearl bead, white plastic tube [LABEL] 0
+[TEXT] trump to be put on toddler leash after repeatedly getting lost around white house [OBJECTS] path,grass,trees,baby harness,person,baby,bench,stroller,arm,hand,ribbon leash [LABEL] 0
+[TEXT] this seemingly portallike cloud i saw the other day [OBJECTS] Sky, cloud, street sign, traffic light, traffic light, traffic light, traffic light, trees, street sign, pole, wires [LABEL] 1
+[TEXT] killed it on slitherio [OBJECTS] Milky Way Galaxy, Galactic longitude labels, Galactic latitude labels, Sun's orbit, Perseus Arm, Outer Arm, Norma Arm, Carina-Sagittarius Arm, Scutum-Centaurus Arm, Galactic Center/Core [LABEL] 0
+[TEXT] human barbie takes off all make up the doctors are stunned [OBJECTS] woman, black dress, athame, forest, trees, ground, leaves, fire, flames, circle of fire, candles [LABEL] 0
+[TEXT] fist bump [OBJECTS] Toddler, Woman, Soccer player, Arm, Prosthetic arm, Purple shirt, Light blue shirt, Soccer field, Stadium, Hand, Microphone, Black shirt, Man's arm, TV monitors, Tripod, Camera, Soccer ball, Other spectators [LABEL] 1
+[TEXT] ansonia man to be burned at stake admission free for kids under [OBJECTS] man, face, flames, fire, torches, black paint, dark background [LABEL] 1
+[TEXT] sugar mouth take me to nirvana [OBJECTS] Buddha statue, Temple, Stairs, People, Trees, Mountains, Text "TAKE ME", Text "NIRVANA", Text "SUGAR MOUTH", Record label logo "R" [LABEL] 0
+[TEXT] us military considered food drops to lure north koreans away from nuclear sites [OBJECTS] Pilot helmet, Flight suit, Oxygen mask, American flag patch, Helicopter door, Helicopter interior, Mountainous terrain, Desert landscape, Helicopter winch, Engine, Sling, Glove, Pilot's hand, Flight suit pocket, Cable [LABEL] 1
+[TEXT] papa john announces hes suing papa johns [OBJECTS] Two Spider-Men, NYPD van, tire, boxes, wall [LABEL] 0
+[TEXT] come on in america the bloods fine american neutrality in wwi [OBJECTS] Skull, three people, hats, water [LABEL] 0
+[TEXT] stabbed man called daughter from mcdonalds to cancel movie night [OBJECTS] Man, white bucket hat, white tank top, white towel, black handlebar grips, brown door, inset photo, man in inset photo, light-colored shirt in inset photo, white bucket hat in inset photo, shoulder bag/messenger bag in inset photo [LABEL] 1
+[TEXT] goalkeeper concedes goals then gets arrested [OBJECTS] Soccer ball, net, stadium, field, crowd, lights [LABEL] 1
+[TEXT] nordic countries and italy propose a pact [OBJECTS] Pizza, Pizza pan, Tomato slices, Shredded mozzarella cheese, Pizza sauce [LABEL] 0
+[TEXT] donald trump dictating his immigration reform january [OBJECTS] Deportation Station building, Deportation Station sign, Deportee sign, pier, ship, two police officers, police officer's key, police officer's nightstick, play button [LABEL] 0
+[TEXT] the material that built the modern world is also destroying it heres a fix [OBJECTS] Website header, Website title "QUARTZ", Article title, Article subtitle, Author byline, Date, Illustration of concrete being poured, Smoke plume, Factory smokestack, Person pouring concrete, Statue of Liberty [LABEL] 0
+[TEXT] house democrats want to know why a major russian moneylaundering case was abruptly settled [OBJECTS] man,Jeff Sessions,suit,tie,microphone,head,face,eyes,nose,mouth,chin,ears,hair,eyebrows,forehead,cheek,lips,neck,shoulders,lapel,shirt,collar,jacket,background,people [LABEL] 1
+[TEXT] philippines anticipating chinese invasion by filling emergency storage with living essentials [OBJECTS] Folder icon, Folder icon, Text document icon, Text "Memes if China doesn't attack the Philippines", Text "Memes if China attacks the Philippines", Text "How to ask for mercy in Chinese.txt" [LABEL] 0
+[TEXT] to ask eu for brexit date delay [OBJECTS] Theresa May, coat, scarf, BBC News logo [LABEL] 1
+[TEXT] this derpy jalapeno i found while making dinner [OBJECTS] jalapeno slice, seeds, cutting board [LABEL] 0
+[TEXT] nasa scrubs highly anticipated wallops island rocket launch will try again on tuesday [OBJECTS] Stars, Purple atmospheric glow, Green light, Pier, Ocean, Railing [LABEL] 1
+[TEXT] a small melted part of a television [OBJECTS] TV screen, water droplets, buttons, power button, up arrow button, minus button, plus button, down arrow button, settings button, OK button, reflection of a room, reflection of framed pictures on a wall [LABEL] 1
+[TEXT] italian troops in formation before the battle of el alamein [OBJECTS] Sheet pan, Rectangular pizza, Pizza slices, Aluminum tray, Divided tray, Portion of pizza, Metal rack, Paw print sticker [LABEL] 0
+[TEXT] angry hedgehog attacking a couch bigger version [OBJECTS] Hedgehog, couch, computer monitor, speaker, person, door [LABEL] 1
+[TEXT] a single tiny cloud in otherwise clear skies at grand canyon [OBJECTS] Trees, Sky, Cloud, Grand Canyon [LABEL] 1
+[TEXT] this ice cream comes inside of a fruit shell instead of a paper cup [OBJECTS] hand, guava fruit [LABEL] 1
+[TEXT] found a derek jeter baseball card from in my closet that was tucked away with other unopened card packs from the s [OBJECTS] baseball card, Derek Jeter, New York Yankees uniform, baseball field, 1992 Draft Pick, Topps logo [LABEL] 1
+[TEXT] people and the army together warning watermark syria modern date na [OBJECTS] Syrian flags, Doves, Bashar al-Assad, Soldiers, Civilians, Child in white dress, Guns, Green field, Text (Arabic and English) [LABEL] 0
+[TEXT] this limited edition bag of cheetos [OBJECTS] Bag of Cheetos Puffs, Chester Cheetah mascot [LABEL] 1
+[TEXT] my dog after a bath [OBJECTS] Bathroom sink, Siberian husky puppy, Towel, Faucet, Mirror, Hand soap pump, Toothbrush, Toothpaste, Metal towel rack [LABEL] 1
+[TEXT] this photo of my grandpa turned purple after years [OBJECTS] picture frame, photograph, boy, shirt, shorts, shoes, porch, railing, house siding [LABEL] 1
+[TEXT] allied troops landing on omaha beach dday th [OBJECTS] AT-AT walkers, AT-ST walkers, stormtroopers, beach, water, palm trees, land, sky [LABEL] 0
+[TEXT] georgia election server wiped after suit filed [OBJECTS] computer screen, software window, table, text, checkboxes, dropdown menu, data fields, labels, numbers, scroll bar [LABEL] 1
+[TEXT] condemning the military german left party sticker berlin with translation and commentary [OBJECTS] Sticker, pig cartoon, military helmet, rifle, tank, coins, bandage, German text, red arrows, green metal surface [LABEL] 0
+[TEXT] a booty pic [OBJECTS] Praying mantis, arm, hair, tattoo, Reddit logo [LABEL] 0
+[TEXT] this little girl standing under a rainbow [OBJECTS] Girl, Dress, Rainbow, Puddle, Road, Trees, Grass, Sky, Clouds, Dirt, Shadow, Reflection [LABEL] 1
+[TEXT] dog covered in tin foil [OBJECTS] dog,ball,ground,grass,sticks/twigs [LABEL] 0
+[TEXT] turnout for the first round of sabans power rangers auditions [OBJECTS] People, Clothing (red shirts, dark pants), Ground/Field, Trees, Buildings [LABEL] 0
+[TEXT] wolf next to dead bison [OBJECTS] wolf,bison,river,mountains,snow,tree,grass,land [LABEL] 1
+[TEXT] a safe was sealed for years until a museum visitor spun the lock at random and opened it [OBJECTS] Woman, Man in plaid shirt, Child, Elderly man in baseball cap, Black t-shirt, Plaid shirt, Blue jacket, White baseball cap, Laptop, Black display case, Wooden cross, Safe, Display shelves with small drawers, White sign with black text, Dark colored jacket, Black pants, Blue jeans, Mannequin head with hat, Shelves, White wall, Tan wall [LABEL] 0
+[TEXT] this man has left written on his left shoe and right on his right shoe [OBJECTS] person, legs, pants, shoes, escalator, steps, left shoe, right shoe [LABEL] 1
+[TEXT] my electronic cigarette doesnt seem to enjoy being sucked on [OBJECTS] Electronic cigarette, charging port, napkin, table, CE marking, WEEE marking, screws [LABEL] 0
+[TEXT] soviet trombonist turned soldier plays for a venomous cobra in afghanistan c [OBJECTS] Person, Submachine gun, Backpack, Vehicle, Grass, Ground [LABEL] 0
+[TEXT] spent snapdragons are those poor unfortunate souls [OBJECTS] Pink and white snapdragon flowers, Snapdragon seed pods resembling skulls [LABEL] 0
+[TEXT] sky panelling on the ceiling in a motorway service station bathroom [OBJECTS] ceiling tiles, clouds, birds, smoke detectors, light fixtures, white tile wall, electrical outlets [LABEL] 1
+[TEXT] stories dont let the world consume you [OBJECTS] Drawing, face, hair, sunglasses, tears, mouth, tape, paper, words [LABEL] 0
+[TEXT] dalit girl beaten up by women from higher caste because her shadow fell on their family [OBJECTS] Silhouette of a child,Translucent fabric or curtain [LABEL] 1
+[TEXT] famous photo of muhammad ali standing over his opponent [OBJECTS] Boxing ring, Ropes, Canvas, Boxer shorts (Ali), Boxer shorts (Liston), Boxing gloves (red), Shoes (boxing), Audience, Spectators, Men, Women, Cameras, Light fixtures, Referee, Cornermen, Physician [LABEL] 1
+[TEXT] indonesia bans gay emojis [OBJECTS] woman dancing, person bowing, woman with open mouth, couple with heart, family with one child, family with two children, family with three children, polo shirt, women dancing, person in lotus position, woman with raised hand, couple with heart, family with one child, family with two children, family with three children, polo shirt with collar, woman and man standing, woman crossing arms, woman getting haircut, kissing face, family with one child, family with two children, family with three children, jeans, woman and man standing, woman with hands on head, woman shrugging, kissing face, family with one child, family with two children, family with three children, dress shirt and tie, woman and man standing, woman raising hand, woman face palming, kissing face, family with one child, family with two children, family with three children, dress [LABEL] 1
+[TEXT] benito mussolini propagates his political party during great depression [OBJECTS] billboard, man on billboard, text on billboard, Italian flag colors on billboard, logo on billboard, metal billboard frame, billboard supports, building wall, people walking, person sitting, bag, papers on wall, graffiti on wall [LABEL] 0
+[TEXT] a piece by w hogarths to demonstrate the importance of perspective [OBJECTS] church, trees, crow, crescent moon, building, wagon, horses, bridge, man with a horn, woman in a window, shed, fishing rods, barrels, men fishing, boats, river, flock of sheep, dog, rocks, arches [LABEL] 1
+[TEXT] search it up its true [OBJECTS] Google search bar, "X" button, magnifying glass icon, "ALL" button, "SHOPPING" button, "NEWS" button, "IMAGES" button, "VIDEOS" button, Kellogg's advertisement, bowl of cornflakes, vintage advertisement for Kellogg's Toasted Corn Flakes [LABEL] 1
+[TEXT] discoverys flyover of dc [OBJECTS] Space Shuttle Orbiter, Shuttle Carrier Aircraft (SCA), Boeing 747, Clouds, Sky [LABEL] 1
+[TEXT] mister thailand the fear of atomic energy [OBJECTS] Mountains, Clouds, Glacier, Glacial Lake, Trees, Path, Grass, Rocks [LABEL] 0
+[TEXT] moonset [OBJECTS] moon, clouds, stars, trees, water, light reflection on water [LABEL] 1
+[TEXT] french cavalry charge foiled by german machine gun fire ww c [OBJECTS] fire, smoke, clouds, rocks, mountain peaks, flying figures [LABEL] 0
+[TEXT] this italian candy labeled calories as energy [OBJECTS] Nutritional facts label, plastic bag [LABEL] 1
+[TEXT] this bed for staging is fake [OBJECTS] Bed, mattress, fitted sheet, flat sheet, duvet cover, bed risers, cardboard box, wood floor [LABEL] 1
+[TEXT] pete buttigieg and beto orourke at the democratic primaries circa [OBJECTS] Jack Johnson, John Jackson, podiums, backdrop, suits, ties, C-SPAN9 logo [LABEL] 0
+[TEXT] tommy wiseau filming the room [OBJECTS] Person,Loki,shoulder armor,green tunic,black overshirt,mountains,blurred background,balcony,stone railing,hand,finger [LABEL] 0
+[TEXT] snails crawling in a line [OBJECTS] snail, snail, snail, wooden planks, small green leaf, dirt, snail slime trail [LABEL] 1
+[TEXT] theres a twerk in the engine [OBJECTS] Pistons, Connecting rods, Crankshaft, Wrist pins, Crank throws, Counterweights [LABEL] 0
+[TEXT] jj watt [OBJECTS] Football helmet, Face mask, Chin strap, Mouthguard, Jersey, Number 98, Right arm, Left arm, Right hand, Left hand, Gloves, Elbow brace, Bicep band [LABEL] 1
+[TEXT] brave redditors destroy facebook hq decolorized [OBJECTS] Soldier, Soldier, Soldier, Flag, Flagpole, Building, Rubble, Reddit logo, Street, Tank, Sculpture/Statue [LABEL] 0
+[TEXT] manufacturing defect on hardwood flooring [OBJECTS] cat, wooden floor [LABEL] 0
+[TEXT] this picture of prince william and nick mason from pink floyd [OBJECTS] Prince William, Duke of Cambridge, recipient, military officer, man in suit, man in suit, boy, boy, man in suit [LABEL] 1
+[TEXT] good work sister we never figured you could do a mansize job americas women have met the test united states [OBJECTS] poster, text, woman, man, shirt, pants, head covering, badge, paper, thermos [LABEL] 0
+[TEXT] the way my cat was sitting earlier [OBJECTS] cat, window, tree, curtain, wooden beam, cushion, rope, wooden fence, plant pot, metal object [LABEL] 0
+[TEXT] we can do a lot more navy vet walks to raise awareness of veteran suicide homelessness [OBJECTS] Man, baseball cap, backpack, whistle, shirt, shorts, walking stick, sidewalk, grass, trees, building, windows, door, no parking sign, wooden post, metal railing, street, curb, vehicle, part of a gate [LABEL] 1
+[TEXT] you did whaaat [OBJECTS] stone wall, archway, doorway, two vertical openings, plaque, bridge, cobblestone path, metal railing [LABEL] 0
+[TEXT] this is every piece of paper from my three years of high school [OBJECTS] Green binder, Papers, Carpet, Wooden door, Green wall, White baseboard [LABEL] 1
+[TEXT] ronda rousey says shed only fight floyd mayweather if they were dating [OBJECTS] Floyd Mayweather, boxing gloves, boxing shorts, Ronda Rousey, sports bra, UFC gloves, ring, audience, lights [LABEL] 1
+[TEXT] first edition of charles batteux groundbreaking book the beautiful art and principles of the meme he was a true visionary [OBJECTS] book, title page, illustration of two cherubs, chair [LABEL] 0
+[TEXT] engkilili infinitude in the finite [OBJECTS] City, Lights, Buildings, Houses, Mountains, Body of water, Sky, Chimney, Snow, Rooftops [LABEL] 0
+[TEXT] a rather cute and happy smoke alarm [OBJECTS] Wall, smoke detector [LABEL] 0
+[TEXT] my airplanes shadow in a glory [OBJECTS] airplane, airplane shadow, glory, clouds, airplane engine, nacelle [LABEL] 1
+[TEXT] the way this measuring cup that has been stuck has aged over the past decade [OBJECTS] measuring scoop, lid, counter [LABEL] 1
+[TEXT] iron man looks on in terror while spiderman disintegrates [OBJECTS] man in military uniform and hat, man in military uniform and hat, man in military uniform and hat, man in military uniform and hat, man in military uniform and hat, man in military uniform and hat, water, wall, building, building, building, speech bubble, text [LABEL] 0
+[TEXT] beyonces reaction to pharrells hat [OBJECTS] Jay-Z,Beyoncé,Pharrell Williams,brown fedora,black suit jacket,white dress shirt,black cufflinks,red leather jacket,curly blonde hair [LABEL] 1
+[TEXT] devastating volcano eruption [OBJECTS] Koi fish, Koi fish, Koi fish, Water, Pond, Wooden beams, Moss [LABEL] 0
+[TEXT] this is one copy of the websters dictionary in braille [OBJECTS] Wooden bookcase, shelves, blue books, red books, small stack of books, drawer, metal bookends, tile floor, wall, curved wall section, ceiling lights, hallway, handrail [LABEL] 1
+[TEXT] how i became fake news [OBJECTS] People, Protest signs, Baseball cap, T-shirts, Shorts, Shoes, Cars, Pickup truck, Toyota Tundra logo, License plate, Backpack/purse, Street, Dust/smoke/debris [LABEL] 1
+[TEXT] jake gyllenhaal shutting up his coguest at a conference in ny [OBJECTS] Jake Gyllenhaal, Oona Laurence, microphone, microphone, chair, chair, wall, SiriusXM logo, SiriusXM logo, SiriusXM logo, SiriusXM logo, person, person [LABEL] 1
+[TEXT] texas yearold becomes youngest girl to climb mount kilimanjaro [OBJECTS] person,jacket,pants,hat,boots,leg warmers,mountain,clouds,rocks,dirt,tents,people [LABEL] 1
+[TEXT] mongolia date unknown forward along the path of communism [OBJECTS] mountains, horses, rider, factories, buildings, star, emblem, horse and rider, sun, gear, ribbon with text, man, traditional hat, woman, traditional clothing [LABEL] 0
+[TEXT] mutant is a nerd [OBJECTS] "The image you are requesting does not exist or is no longer available." message, imgur.com website address [LABEL] 0
+[TEXT] sad robot audio meters [OBJECTS] Philips stereo system, speaker [LABEL] 0
+[TEXT] pavement cracks look like picachu [OBJECTS] crack,crack,crack,crack,crack,crack,crack,crack,crack,crack,crack,crack,crack,crack [LABEL] 1
+[TEXT] bulky german and stripper russian prepare for a gay porn shoot [OBJECTS] Heavy Weapons Guy, minigun, Australium minigun, ammo belt, eyepatch, shorts, boots, railroad tracks, rocks, wooden planks, wooden building, doorway, smoke, Demoman, grenade launcher, pipe, holster, pants, boots [LABEL] 0
+[TEXT] this silly flying pomeranian [OBJECTS] dog,sand,beach,paw print [LABEL] 1
+[TEXT] elon musk why is my dolphin not working [OBJECTS] Text "WHY IS MY DOLPHIN NOT WORKING?", Red horizontal line, Black silhouette of a quadrupedal animal, Text "ELON MUSK", Red border/frame [LABEL] 0
+[TEXT] eggplant [OBJECTS] Person, eggplant, limes, cardboard box, gloves, blue shirt, black jacket/hoodie, sticker, white bowl/container, table/counter [LABEL] 0
+[TEXT] a fight between two creatures [OBJECTS] Tree,Branches,Fallen tree trunk,Trunk cavity,Snow,Leaves,Twigs,Forest floor [LABEL] 1
+[TEXT] i found the skelton who doot nsfw [OBJECTS] "The image you are requesting does not exist or is no longer available", imgur.com text [LABEL] 0
+[TEXT] kings hawaiian sweet rolls [OBJECTS] Abdominal muscles, torso, skin [LABEL] 0
+[TEXT] jaws [OBJECTS] Jaws title, shark, woman swimming, water, movie poster, nose, teeth, mouth [LABEL] 0
+[TEXT] colorful sea snail shell i found [OBJECTS] Three small, reddish-brown objects, white paper or surface, lined or ruled section of paper or surface [LABEL] 1
+[TEXT] available here [OBJECTS] penguin, penguin, penguin [LABEL] 0
+[TEXT] i imagine their names are otis and carl [OBJECTS] green flashlight, yellow flashlight, another yellow flashlight, price tag, cardboard packaging [LABEL] 0
+[TEXT] a tasty piece of sushi [OBJECTS] Bird,Beak,Black fabric,White fabric,Sock/sleeve-like covering [LABEL] 0
+[TEXT] this cruise ship has sailed small exit signs on the floor dollar for scale [OBJECTS] Wall, Door frame, Carpet, One dollar bill, Door sensor, Metal strip/threshold, Yellow strip/tape [LABEL] 1
+[TEXT] cheeeese [OBJECTS] motion-activated light fixture, two light covers, motion sensor, white siding, door frame [LABEL] 0
+[TEXT] my local village has turned their old telephone box into a book swap [OBJECTS] Tree, Red telephone booth, Street, Sidewalk, Trash can, Road, Building, Fence, Car, Bus stop sign [LABEL] 1
+[TEXT] the obvious spy [OBJECTS] car,license plate,Toyota logo,trailer hitch,rear bumper,tail lights,trunk,windshield wiper,reflected car part [LABEL] 1
+[TEXT] miss man bombs walmart over confederate flag police [OBJECTS] Man,Face,Hair,Mustache,Goatee,Wall [LABEL] 1
+[TEXT] a series of british antisuffragette postcards based on the childrens rhyme this is the house that jack built in regards to the house of parliament published by birn brothers ltd approx [OBJECTS] woman, hat, coat, dress, brick, gloves, umbrella, Houses of Parliament, Big Ben, river, walkway [LABEL] 0
+[TEXT] godspeed you black emperor we flew from the hazard temple [OBJECTS] Sky, Birds, Cars, Road, Streetlights, Bridge railing, Buildings, White van, Citroen C3, Fences [LABEL] 0
+[TEXT] when youre hanging by a thread but you still find a place to lay your head [OBJECTS] Wall, electrical outlet, USB wall adapter, USB cable, smartphone [LABEL] 1
+[TEXT] this took me a while [OBJECTS] trees, snow, two dogs, stick, bushes, house, bench [LABEL] 0
+[TEXT] cognition brewery in ishpeming is continuing its effort to help raise money for homeless pets [OBJECTS] Picture frame, Orange tabby cat, Red tablecloth, Wooden barrel, Metal bucket, Cat toys, Yellow feather toy, Small box of cat treats, Chalkboard label on bucket [LABEL] 1
+[TEXT] p [OBJECTS] Hard clam,Hard clam,Hard clam,Hard clam,Hard clam,Hard clam,Hard clam,Hard clam,Hard clam,Hard clam,Hard clam shell,Hard clam shell,Hard clam shell,Hard clam shell,Hard clam shell,Hard clam shell,Glass bowl [LABEL] 0
+[TEXT] this rule should apply to customers in all fastfood retail chains [OBJECTS] sign, window, street, car [LABEL] 1
+[TEXT] the crew of apollo boarding before liftoff their main objective being to collect cheese from the moon [OBJECTS] Wallace, Gromit, rocket, ladder, rope, auto lock sign, spotlight, spotlight, wooden crate, metal sheet, brick wall, lightbulb, lightbulb [LABEL] 0
+[TEXT] blunt smoking son of alleged college admissions cheat gets his rap cd reviewed by nyp [OBJECTS] Man,Puffer jacket,Hair,Hands,Fingers,Woman,Blond hair,Face,Nose,Mouth,Eyebrows,Green awning,Street,Cars,Building,Window,Sidewalk,Trees [LABEL] 1
+[TEXT] the picture of a couple on the milk carton are also on the milk carton in their kitchen [OBJECTS] Man, Woman, Milk carton, Coffee mugs, Couch, Window, French press coffee maker [LABEL] 1
+[TEXT] this building looks like roberto the stabbing robot from futurama [OBJECTS] Building, Windows, Cylindrical concrete structures, Concrete columns, Stairs, Ramp, Railing, Streetlight, Fence, Cars, Sidewalk [LABEL] 0
+[TEXT] because we dont get to see enough good cop stories on reddit [OBJECTS] Police officer, men, breakfast sandwiches, cardboard box, plastic bag, building, street, sidewalk, tree, crosswalk, news chyron [LABEL] 1
+[TEXT] spilled water looks like a screaming skull [OBJECTS] water, floor, tile, grout lines, water stain [LABEL] 0
+[TEXT] this guy has seen some shit [OBJECTS] toilet, toilet seat, toilet flush button, tiles [LABEL] 0
+[TEXT] epcot is lit [OBJECTS] Sphere, fire, flames, smoke, poles, support beams, building, trees [LABEL] 0
+[TEXT] found these happy little guys on instagram [OBJECTS] four small white bowls, dark liquid, smiley face, winking face [LABEL] 0
+[TEXT] i drove an atv to the top of the judean mountains instantly thought of what you guysgals would come up with when i got home [OBJECTS] Woman, jacket, jeans, mountains, desert, sky [LABEL] 1
+[TEXT] memory cove i prefer the loveliness and the terror x [OBJECTS] Birdhouse, Tree branch, Flowers, Wire/String, Bird [LABEL] 0
+[TEXT] just threw a dart into a concrete wall again my name is dave [OBJECTS] Exit sign, dart, cinder block wall, ceiling tile, electrical box, wires [LABEL] 1
+[TEXT] a perfect photo of an orca [OBJECTS] Orca, ocean, boat, outboard motor, wake, splash, railing, hose, cleats [LABEL] 1
+[TEXT] this graduation photo [OBJECTS] Person, graduation gown, graduation cap/mortarboard, lighthouse, grass, dome, seawall, benches, trash can/bin, body of water [LABEL] 1
+[TEXT] groups warn teenagers warned over prinking craze [OBJECTS] Woman in blue dress, Woman in black coat, Cars, Street, Headlights, Police officer, People in background, White bag/purse, Cell phone [LABEL] 1
+[TEXT] irans supreme leader pardons or reduces sentences for prisoners [OBJECTS] Person, Ayatollah Ali Khamenei, Portrait, Microphone, Microphone Stand, Chair, Flag of Iran, Carpet, Stage, Curtains, Wall, Arabic script [LABEL] 1
+[TEXT] insides of a tomato and a piece of cilantro look like a frog [OBJECTS] piece of food, piece of parsley [LABEL] 0
